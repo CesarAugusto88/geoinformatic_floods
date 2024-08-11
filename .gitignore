@@ -1,0 +1,20 @@
+L2A_T22JDM_A035571_20231228T133146
+L2A_T22JDM_A035814_20240114T132231
+L2A_T22JDM_A036100_20240203T132230
+L2A_T22JDM_A037430_20240506T133146
+L2A_T22JDN_A035571_20231228T133146
+patches_charter
+uso-gpu
+RCM3_SAR_20240503_T054403_FLOODED_AREAS_POA_GUAIBA
+.ipynb_checkpoints/
+*.tif
+*.jp2 
+*.qgz
+*.kea 
+*.gpkg
+*.xml
+Training_TempCNN_2T_Floods_Charter_Rio_Grande_do_Sull_verificar_merge_matriz.ipynb
+Training_TempCNN_4T_Floods_Charter_Rio_Grande_do_Sul copy.ipynb
+modelos
+*.zip
+patches_charter
