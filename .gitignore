@@ -18,3 +18,5 @@ Training_TempCNN_4T_Floods_Charter_Rio_Grande_do_Sul copy.ipynb
 modelos
 *.zip
 patches_charter
+Training_TempGRU_4T_Floods_Charter_Rio_Grande_do_Sul-com_erro.ipynb
+Training_TempCNN_4T_Floods_Charter_Rio_Grande_do_Sul_Mapas_Coordenadas.ipynb
